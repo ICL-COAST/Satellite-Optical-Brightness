@@ -1,5 +1,4 @@
-# My MSc Project is based the study below
-Self-shadowing considering
+# My MSc Project is based the study below with Self-shadowing considering
 =============================================================
 # satellite-optical-brightness
 Software for Satellite Optical Brightness (2023)
