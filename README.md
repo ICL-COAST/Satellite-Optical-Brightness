@@ -1,3 +1,6 @@
+# My MSc Project is based the study below
+Self-shadowing considering
+=============================================================
 # satellite-optical-brightness
 Software for Satellite Optical Brightness (2023)
 by Forrest Fankhauser, Jacob Askari, and Tony Tyson.
@@ -16,3 +19,11 @@ satellites which is used to evaluate the accuracy of our models.
 3. Run "pip install -r requirements.txt"
 
 Note: All file paths are configured for running from top directory.
+
+==================================================================
+
+
+
+
+
+
